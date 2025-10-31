@@ -14,5 +14,5 @@
 
 \- `README.md`: Project overview and Figma link
 
-
+UI updated on Oct 31
 
